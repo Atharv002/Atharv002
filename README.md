@@ -2,7 +2,7 @@
 <h3 align="center">A passionate ML & Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/chill%20scene.gif">
 
-- 🔭 I’m currently working on **An E-Commerce Platform**
+- 🔭 I’m currently working as a Web Development Intern at Zymo
 
 - 🌱 I’m currently learning **React, React Native**
 
@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **damleatharv02@gmail.com**
 
-- 📄 Know about my experiences [here](https://drive.google.com/file/d/1bMyxQMHnp5A1C9OJkpd9Vlmi0xKsZLrG/view?usp=sharing)
+- 📄 Know about my experiences [here](https://drive.google.com/file/d/1BXKu45cz4LVg_G4zn6P27pi570CVn9od/view?usp=drive_link)
 
 - ⚡ Fun fact **I like gaming!**
 
